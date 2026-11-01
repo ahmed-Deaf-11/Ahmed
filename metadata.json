@@ -1,0 +1,10 @@
+{
+  "name": "Deaf-11-ASL",
+  "description": "منصة الدردشة المرئية التفاعلية باللمس لمجتمع الصم وإشارات التواصل العالمي المباشر دون الحاجة لصوت أو نصوص",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
